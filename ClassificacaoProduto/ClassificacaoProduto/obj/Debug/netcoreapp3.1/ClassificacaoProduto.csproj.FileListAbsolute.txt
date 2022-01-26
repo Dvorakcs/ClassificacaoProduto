@@ -1,0 +1,14 @@
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\bin\Debug\netcoreapp3.1\ClassificacaoProduto.exe
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\bin\Debug\netcoreapp3.1\ClassificacaoProduto.deps.json
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\bin\Debug\netcoreapp3.1\ClassificacaoProduto.runtimeconfig.json
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\bin\Debug\netcoreapp3.1\ClassificacaoProduto.runtimeconfig.dev.json
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\bin\Debug\netcoreapp3.1\ClassificacaoProduto.dll
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\bin\Debug\netcoreapp3.1\ClassificacaoProduto.pdb
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.csproj.AssemblyReference.cache
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.AssemblyInfoInputs.cache
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.AssemblyInfo.cs
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.dll
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.pdb
+C:\Users\marcelo.henrique\source\repos\ClassificacaoProduto\ClassificacaoProduto\obj\Debug\netcoreapp3.1\ClassificacaoProduto.genruntimeconfig.cache
